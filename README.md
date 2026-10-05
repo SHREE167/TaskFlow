@@ -14,7 +14,8 @@ This project was developed by **V Shree Kamalesh** during a Web Development Inte
 
 ## 🚀 Live Demo & Deployment
 
-- **Deployable Platform:** Vercel / GitHub Pages / Netlify
+- **Live Vercel Application:** [https://taskflow-inky-one.vercel.app](https://taskflow-inky-one.vercel.app)
+- **GitHub Repository:** [https://github.com/SHREE167/TaskFlow](https://github.com/SHREE167/TaskFlow)
 - **Zero Config Required:** Pure static files (`index.html`, `style.css`, `script.js`) that run instantly in any browser.
 
 ---
